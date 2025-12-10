@@ -1,11 +1,12 @@
+/* Honeymoon font removed - not available
 @font-face {
     font-family: 'honeymoonregular';
     src: url('/web/20220922075959im_/http://www.sensusbeauty.com/wp-content/themes/temp/fonts/honeymoon_personal/honeymoon_personal_use-webfont.woff2') format('woff2'),
          url('/web/20220922075959im_/http://www.sensusbeauty.com/wp-content/themes/temp/fonts/honeymoon_personal/honeymoon_personal_use-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
+*/
 
 @import url(https://web.archive.org/web/20220922075959cs_/https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css);
 
@@ -80,7 +81,7 @@ animation_s{
 }
 
 .font-honeymoon{
-	font-family: 'honeymoonregular', Times, serif;
+	font-family: 'Brush Script MT', cursive, Times, serif;
 }
 
 .font-heiti{
